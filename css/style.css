@@ -1,0 +1,18 @@
+.text-box1{
+    border: 2px salmon;
+    padding: 6px;
+    margin: 20px;
+    background-color: yellow;
+}
+.text-box2{
+    border: 2px blue;
+    padding: 6px;
+    margin: 20px;
+    background-color: pink;
+}
+.text-box3{
+    border: 2px green;
+    padding: 6px;
+    margin: 20px;
+    background-color: grey;
+}
