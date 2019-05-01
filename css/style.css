@@ -1,7 +1,10 @@
 body{
-    text-decoration-style: wavy;
-    background-color: aqua;
-    background-image: url("images/3ZIuGF.jpg");
+    text-decoration-color: black;
+    background-image: url("/images/photo-1511447333015-45b65e60f6d5.jpeg")
+    
+}
+h1{
+    color: aquamarine;
 }
 .text-box1{
     border: 2px salmon;
