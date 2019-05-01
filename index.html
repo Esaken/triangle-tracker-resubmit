@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <link href="css/style.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+  <title>Triangle-Tracker</title>
+
+  <script src="java/script.js"></script>
+
+</head>
+
+<body>
+  <h1><strong>Properties of a triangle</strong></h1>
+  <img src="images/download.jpeg" width="35%" alt="Triangles">
+  <div class="jumbotron">
+        <p>Please input your variables in the text boxes below to check the property of your triangle</p>
+        <p>Input your values</p>
+        <form action="" name="sides">
+          Side1:<br>
+          <input type="number" name="Side1" id="Side1" value="">
+          <br>
+          Side2:<br>
+          <input type="number" name="Side2" id="Side2" value="">
+          <br>
+          Side3:<br>
+          <input type="number" name="Side3" id="Side3" value="">
+          <br>
+          <button class="click" type="button" onclick="myfunction()">Submit</button>
+      
+        </form>
+        <div>
+            <div class="alert">
+                    <p id="result" class="result"></p>
+            </div>
+      </div>
+  <p>If you click the "submit" button, the data will be sent to determine the property of your triangle.</p>
+</div>
+    <div class="container">
+        <div class="row">
+            <div col-md-1>
+                <div class="text-box1">
+                        <h2 class="header">Properties for the triangles</h2>
+                        <h3 class="bg-success">Equilateral triangle</h3>
+                        <ul>
+                          <li>all sides equal</li>
+                          <li>all angles equal</li>
+                          <img src="images/download.png" alt="Equilateral Triangle">
+                        </ul>
+                </div>
+            </div>
+            <div class="text-box2">
+                    <div col-md-2>
+                            <h3 class="bg-warning"><ul>Scalene triangle</ul></h3>
+                            <ul>
+                              <li>no side is equal</li>
+                              <img src="images/download (4).png" alt="Scalene triangle">
+                            </ul>
+                    </div>
+            </div>
+            <div class="text-box3">
+                    <div col-md-3>
+                            <h3 class="bg-danger">Isosceles</h3>
+                            <ul>
+                              <li>two sides are equal</li>
+                              <img src="images/download (2).png" alt="Isosceles triangle">
+                            </ul>
+                    </div>
+            </div>
+        </div>
+            
+    </div>
+  
+</body>
+
+</html>
