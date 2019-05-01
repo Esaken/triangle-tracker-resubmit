@@ -1,3 +1,8 @@
+body{
+    text-decoration-style: wavy;
+    background-color: aqua;
+    background-image: url("images/3ZIuGF.jpg");
+}
 .text-box1{
     border: 2px salmon;
     padding: 6px;
@@ -11,8 +16,15 @@
     background-color: pink;
 }
 .text-box3{
-    border: 2px green;
+    border: 2px orange;
     padding: 6px;
     margin: 20px;
     background-color: grey;
+}
+.result{
+    border: 2px red;
+    padding: 6px;
+    margin: 20px;
+    background-color: greenyellow;
+
 }
