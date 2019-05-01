@@ -1,8 +1,5 @@
 body{
-    text-decoration-color: black;
-    background-color: aqua;
     background-image: url("/images/abstract-dynamic-pattern-wallpaper-vector_53876-59131.jpg");
-
 }
 h1{
     color: aquamarine;
@@ -30,5 +27,5 @@ h1{
     padding: 6px;
     margin: 20px;
     background-color: greenyellow;
-
 }
+
