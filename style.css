@@ -1,0 +1,33 @@
+body{
+    text-decoration-color: black;
+    background-image: url("/images/photo-1511447333015-45b65e60f6d5.jpeg")
+    
+}
+h1{
+    color: aquamarine;
+}
+.text-box1{
+    border: 2px salmon;
+    padding: 6px;
+    margin: 20px;
+    background-color: yellow;
+}
+.text-box2{
+    border: 2px blue;
+    padding: 6px;
+    margin: 20px;
+    background-color: pink;
+}
+.text-box3{
+    border: 2px orange;
+    padding: 6px;
+    margin: 20px;
+    background-color: grey;
+}
+.result{
+    border: 2px red;
+    padding: 6px;
+    margin: 20px;
+    background-color: greenyellow;
+
+}
