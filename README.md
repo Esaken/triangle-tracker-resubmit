@@ -1,28 +1,28 @@
-#Triangle Tracker
+#  Triangle Tracker
 -------------------------
-##Author
+##  Author
 -Kennedy Esau.
 -Date:27/4/2019
 ---------------
-##Description
+##  Description
 -Triangle Tracker helps one in determining the name type of the triangle you have and you actually don't know the type of the triangle you have.
 -Enter the measurements of the triangle you have and then click the check button and you will receive an alert to shoe you the name of your triangle.
 --------------------------------------------------------
-##Features
+##  Features
 -The language used was JavaScript.
 -HTML and CSS were majorly in used in making of the front end features.
 --------------------------------------------------------------------
-##Instructions of use
+##  Instructions of use
 -To start using this project follow the commands:
 * git clone Trackerproject
 * cd  Triangleproject
 * atom .
 -------------------------------------------------------------------------
-## Support and contact details
+##  Support and contact details
 * Email: kenesau4763@gmail.com
 * Call:0717516013.
 ------------------------------------------------------------------
-##Behavior Driven Development(BDD)
+##  Behavior Driven Development(BDD)
 -----------------------------------------------------------
 |Behavior:                 |Input example   |Output  example|
 |--------------------------|----------------|---------------|
@@ -34,7 +34,7 @@
 ---------------------------------------
 
 --------------------------------------------------------------------
-##Lisence
+##  Lisence
 * Authorized to be used by anyone in need of it anytime and anywhere.
      copyright &copy 2019 Esau Studio
 Message Input
